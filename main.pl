@@ -16,3 +16,6 @@ matched(ResidentID, ProgramID, Matcheset) :-
 
 # assign a program to the resident
 offer(ResidentID, currentMatchset, newMatchset) :-
+
+# helper to match one resident with one program
+offer(ResidentID, ProgramID) :-

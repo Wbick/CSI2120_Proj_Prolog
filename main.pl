@@ -14,20 +14,21 @@ writeMatchInfo(ResidentID, ProgramID) :-
 initialMs(Ms) :-
     findall(match(P,[]), program(P,_,_,_), Ms).
 
-% computes the rank of a resident in program's rol
+% computes the rank of a resident in programs rol
 rankInProgram(ResidentID, ProgramID, Rank) :-
     program(ProgramID, _, _, ROL),
     position(ResidentID, ROL, Rank).
 
-% base case, if resident is in first position
+% base case, resident is in first position
 position(X, [X|_], 1).
-% recursively find resident's rank in program rol
+% recursively find residents rank in program rol
 position(X, [_|T], N) :-
     position(X, T, N1),
     N is N1 + 1.
 
-% find least preferred resident in program's list
+% find least preferred resident in programs list
 leastPreferred(ProgramID, ResidentIDsList, LeastPreferredResidentID, RankOfThisResident) :-
+    program(ProgramID, _, _, ROL).
 
 % checks if a resident is matched
 matched(ResidentID, ProgramID, Matchset) :-

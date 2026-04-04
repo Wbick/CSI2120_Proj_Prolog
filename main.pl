@@ -63,20 +63,41 @@ leastPreferred(ProgramID, [H|T], LeastPreferredResidentID, RankOfThisResident) :
         RankOfThisResident = TWorstRank
     ).
 
-%i did this but when i tried to merge you had done yours.
-%leastPreferred(ProgramID, ResidentIDsList, LeastPreferredResidentID, RankOfThisResident) :-
-%    program(ProgramID, _, _, ROL),
-%    findall(Rank, (rankInProgram(ResidentID, ProgramID, Rank)), Ranks),
-%    max_list(Ranks, RankOfThisResident),
-%    position(LeastPreferredResidentID, ROL, RankofThisResident).
-
 % checks if a resident is matched
 matched(ResidentID, ProgramID, Matchset) :-
     member(match(ProgramID, Residents), Matchset),
     member(ResidentID, Residents).
 
+% do nothign if matched already
+offer(ResidentID, MatchSet, Matchset) :-
+    matched(ResidentID, _, MatchSet),!.
+
 % assign a program to the resident
 offer(ResidentID, CurrentMatchset, NewMatchset) :-
+   resident (ResidentID, _, Preferences),
 
+    
 % helper to match one resident with one program
-offer(ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
+offer_res_to_prog(ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
+    member(match(ProgramID, Residents), CurrentMatchset),
+    program(ProgramID, _, Capacity, _),
+    length(Residents, NumberOfResidents),
+    length_compare_capcity(Capacity, NumberOfResidents, ResidentID, ProgramID, CurrentMatchset, NewMatchset).
+
+%case one number of residents is less than capacity, add resident to program
+length_compare_capcity(Capacity, NumberOfResidents, ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
+    NumberOfResidents < Capacity,
+    append(Residents, [ResidentID], NewResidents),
+    select(match(ProgramID, Residents), CurrentMatchset, match(ProgramID, NewResidents), NewMatchset).
+
+%case two number of residents is greater than or equal to capacity, 
+%check if resident is more preferred than least preferred resident, 
+%if so replace least preferred resident with new resident
+length_compare_capcity(Capacity, NumberOfResidents, ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
+    NumberOfResidents >= Capacity,
+    leastPreferred(ProgramID, Residents, LeastPreferredResidentID, RankOfLeastPreferredResident),
+    rankInProgram(ResidentID, ProgramID, ResidentRank),
+    ResidentRank < RankOfLeastPreferredResident,
+    select(LeastPreferredResidentID, Residents, RemainingResidents),
+    append(RemainingResidents, [ResidentID], NewResidents),
+    select(match(ProgramID, Residents), CurrentMatchset, match(ProgramID, NewResidents), NewMatchset).

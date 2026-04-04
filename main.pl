@@ -28,7 +28,6 @@ position(X, [_|T], N) :-
 
 % find least preferred resident in programs list
 leastPreferred(ProgramID, ResidentIDsList, LeastPreferredResidentID, RankOfThisResident) :-
-    program(ProgramID, _, _, ROL).
 
 % checks if a resident is matched
 matched(ResidentID, ProgramID, Matchset) :-

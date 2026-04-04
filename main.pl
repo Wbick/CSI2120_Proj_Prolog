@@ -50,7 +50,7 @@ matched(ResidentID, ProgramID, Matchset) :-
     member(ResidentID, Residents).
 
 % assign a program to the resident
-offer(ResidentID, currentMatchset, newMatchset) :-
+offer(ResidentID, CurrentMatchset, NewMatchset) :-
 
 % helper to match one resident with one program
-offer(ResidentID, ProgramID) :-
+offer(ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-

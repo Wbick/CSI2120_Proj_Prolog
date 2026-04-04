@@ -19,15 +19,30 @@ rankInProgram(ResidentID, ProgramID, Rank) :-
     program(ProgramID, _, _, ROL),
     position(ResidentID, ROL, Rank).
 
-% base case, resident is in first position
+% resident is in first position
 position(X, [X|_], 1).
+
 % recursively find residents rank in program rol
 position(X, [_|T], N) :-
     position(X, T, N1),
     N is N1 + 1.
 
+% list has one resident
+leastPreferred(ProgramID, [ResidentID], ResidentID, Rank) :-
+    rankInProgram(ResidentID, ProgramID, Rank).
+
 % find least preferred resident in programs list
-leastPreferred(ProgramID, ResidentIDsList, LeastPreferredResidentID, RankOfThisResident) :-
+leastPreferred(ProgramID, [H|T], LeastPreferredResidentID, RankOfThisResident) :-
+    leastPreferred(ProgramID, T, TWorstResident, TWorstRank),
+    rankInProgram(H, ProgramID, HRank),
+    (
+        HRank > TWorstRank ->
+        LeastPreferredResidentID = H,
+        RankOfThisResident = HRank
+    ;
+        LeastPreferredResidentID = TWorstResident,
+        RankOfThisResident = TWorstRank
+    ).
 
 % checks if a resident is matched
 matched(ResidentID, ProgramID, Matchset) :-

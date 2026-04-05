@@ -74,11 +74,23 @@ offer(ResidentID, MatchSet, MatchSet) :-
 
 % assign a program to the resident
 offer(ResidentID, CurrentMatchset, NewMatchset) :-
-   resident (ResidentID, _, Preferences),
+    resident (ResidentID, _, Preferences),
+    offer_preferences(ResidentID, Preferences, CurrentMatchset, NewMatchset).
+
+% no program works so matchset stays the same
+offer_preferences(_, [], MatchSet, MatchSet).
+
+% first preferred program
+offer_preferences(ResidentID, [ProgramID|_], CurrentMatchset, NewMatchset) :-
+    offer_res_to_prog(ResidentID, ProgramID, CurrentMatchset, NewMatchSet), !.
+
+offer_preferences(ResidentID, [_|Rest], CurrentMatchset, NewMatchset) :-
+    offer_preferences(ResidentID, Rest, CurrentMatchset, NewMatchset).
 
     
 % helper to match one resident with one program
 offer_res_to_prog(ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
+    rankInProgram(ResidentID, ProgramID, _),
     member(match(ProgramID, Residents), CurrentMatchset),
     program(ProgramID, _, Capacity, _),
     length(Residents, NumberOfResidents),

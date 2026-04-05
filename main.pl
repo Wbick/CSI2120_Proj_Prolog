@@ -69,7 +69,7 @@ matched(ResidentID, ProgramID, Matchset) :-
     member(ResidentID, Residents).
 
 % do nothign if matched already
-offer(ResidentID, MatchSet, Matchset) :-
+offer(ResidentID, MatchSet, MatchSet) :-
     matched(ResidentID, _, MatchSet),!.
 
 % assign a program to the resident
@@ -82,18 +82,18 @@ offer_res_to_prog(ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
     member(match(ProgramID, Residents), CurrentMatchset),
     program(ProgramID, _, Capacity, _),
     length(Residents, NumberOfResidents),
-    length_compare_capcity(Capacity, NumberOfResidents, ResidentID, ProgramID, CurrentMatchset, NewMatchset).
+    length_compare_capacity(Capacity, NumberOfResidents, Residents, ResidentID, ProgramID, CurrentMatchset, NewMatchset).
 
 %case one number of residents is less than capacity, add resident to program
-length_compare_capcity(Capacity, NumberOfResidents, ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
+length_compare_capacity(Capacity, NumberOfResidents, Residents, ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
     NumberOfResidents < Capacity,
     append(Residents, [ResidentID], NewResidents),
     select(match(ProgramID, Residents), CurrentMatchset, match(ProgramID, NewResidents), NewMatchset).
 
-%case two number of residents is greater than or equal to capacity, 
-%check if resident is more preferred than least preferred resident, 
+%case two number of residents is greater than or equal to capacity,
+%check if resident is more preferred than least preferred resident,
 %if so replace least preferred resident with new resident
-length_compare_capcity(Capacity, NumberOfResidents, ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
+length_compare_capacity(Capacity, NumberOfResidents, Residents, ResidentID, ProgramID, CurrentMatchset, NewMatchset) :-
     NumberOfResidents >= Capacity,
     leastPreferred(ProgramID, Residents, LeastPreferredResidentID, RankOfLeastPreferredResident),
     rankInProgram(ResidentID, ProgramID, ResidentRank),

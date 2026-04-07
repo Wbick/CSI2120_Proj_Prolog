@@ -120,3 +120,15 @@ offer_all([], MatchSet, MatchSet).
 offer_all([ResidentID|Rest], CurrentMatchSet, NewMatchSet) :-
     offer(ResidentID, CurrentMatchSet, UpdatedMatchSet),
     offer_all(Rest, UpdatedMatchSet, NewMatchSet).
+
+stable_loop(CurrentMatchSet, FinalMatchSet) :-
+    findall(ResidentID, resident(ResidentID, _, _), Residents),
+    offer_all(Residents, CurrentMatchSet, NewMatchSet),
+    (
+        NewMatchSet == CurrentMatchSet ->
+        FinalMatchSet = CurrentMatchSet
+    ;
+        stable_loop(NewMatchSet, FinalMatchSet)
+    ).
+
+

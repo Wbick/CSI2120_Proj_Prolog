@@ -68,7 +68,7 @@ matched(ResidentID, ProgramID, Matchset) :-
     member(match(ProgramID, Residents), Matchset),
     member(ResidentID, Residents).
 
-% do nothign if matched already
+% do nothing if matched already
 offer(ResidentID, MatchSet, MatchSet) :-
     matched(ResidentID, _, MatchSet),!.
 
@@ -82,7 +82,7 @@ offer_preferences(_, [], MatchSet, MatchSet).
 
 % first preferred program
 offer_preferences(ResidentID, [ProgramID|_], CurrentMatchset, NewMatchset) :-
-    offer_res_to_prog(ResidentID, ProgramID, CurrentMatchset, NewMatchSet), !.
+    offer_res_to_prog(ResidentID, ProgramID, CurrentMatchset, NewMatchset), !.
 
 offer_preferences(ResidentID, [_|Rest], CurrentMatchset, NewMatchset) :-
     offer_preferences(ResidentID, Rest, CurrentMatchset, NewMatchset).
@@ -113,3 +113,10 @@ length_compare_capacity(Capacity, NumberOfResidents, Residents, ResidentID, Prog
     select(LeastPreferredResidentID, Residents, RemainingResidents),
     append(RemainingResidents, [ResidentID], NewResidents),
     select(match(ProgramID, Residents), CurrentMatchset, match(ProgramID, NewResidents), NewMatchset).
+
+% go through every resident and offer
+offer_all([], MatchSet, MatchSet).
+
+offer_all([ResidentID|Rest], CurrentMatchSet, NewMatchSet) :-
+    offer(ResidentID, CurrentMatchSet, UpdatedMatchSet),
+    offer_all(Rest, UpdatedMatchSet, NewMatchSet).

@@ -112,22 +112,20 @@ stable_loop(CurrentMatchSet, FinalMatchSet) :-
         stable_loop(NewMatchSet, FinalMatchSet)
     ).
 
-print_match(ResidentID, ProgramID) :-
-    resident(ResidentID, name(First,Last), _),
-    program(ProgramID, Title, _, _), 
-    matched(ResidentID, ProgramID, _),
-    write(Last), 
-    write(','),
-    write(First), 
-    write(','), 
-    write(ResidentID), 
-    write(','),
-    write(ProgramID), 
-    write(','), 
-    writeln(Title).
-
-print_matched([]).
-print_matched([match(ProgramID, Residents)|Rest]) :-
-    forall(member(ResidentID, Residents), print_match(ResidentID, ProgramID)),
-    print_matched(Rest).
+print_all_residents(FinalMatchset) :-
+    forall(
+        resident(ResidentID, name(FN, LN), _),
+        (
+            (
+                matched(ResidentID, ProgramID, FinalMatchset) ->
+                writeMatchInfo(ResidentID, ProgramID)
+            ;
+                write(LN), write(','),
+                write(FN), write(','),
+                write(ResidentID), write(','),
+                write('XXX'), write(','),
+                writeln('NOT_MATCHED')
+            )
+        )
+    ).
 

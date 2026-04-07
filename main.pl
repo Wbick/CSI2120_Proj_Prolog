@@ -1,5 +1,5 @@
 % high-level gale_shapley/0
-gale_shapely :-
+gale_shapley :-
     initialMs(InitialMatchSet),
     stable_loop(InitialMatchSet, FinalMatchSet),
     write_solution(FinalMatchSet).
@@ -55,7 +55,7 @@ offer(ResidentID, MatchSet, MatchSet) :-
 
 % assign a program to the resident
 offer(ResidentID, CurrentMatchset, NewMatchset) :-
-    resident (ResidentID, _, Preferences),
+    resident(ResidentID, _, Preferences),
     offer_preferences(ResidentID, Preferences, CurrentMatchset, NewMatchset).
 
 % no program works so matchset stays the same
@@ -141,7 +141,8 @@ count_unmatched(FinalMatchset, Count) :-
         UnmatchedResidents),
     length(UnmatchedResidents, Count).
 
-program_open_positions(FinalMatchset, Count) :-
+% counts open spots
+count_open(FinalMatchset, Count) :-
     findall(OpenPositions,
         (
             program(ProgramID, _, Capacity, _),
@@ -151,3 +152,12 @@ program_open_positions(FinalMatchset, Count) :-
         ),
         OpenCount),
     sum_list(OpenCount, Count).
+
+write_solution(FinalMatchSet) :-
+    print_all_residents(FinalMatchSet),
+    count_unmatched(FinalMatchSet, UnmatchedCount),
+    count_open(FinalMatchSet, OpenCount),
+    write('Number of unmatched residents: '),
+    writeln(UnmatchedCount),
+    write('Number of positions available: '),
+    writeln(OpenCount).

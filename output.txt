@@ -1,0 +1,1017 @@
+griffith,rudy,53471742,dmp,Diagnostic and Molecular Pathology
+lara,celia,40128853,XXX,NOT_MATCHED
+mercado,bodhi,20854616,fmd,Family Medicine
+sloan,abby,73334390,imd,Internal Medicine
+branch,maximo,89605746,nrs,Neurosurgery
+pope,emani,51356200,fmd,Family Medicine
+hinton,freya,95510647,fmd,Family Medicine
+ramsey,boden,59056048,fmd,Family Medicine
+schaefer,keegan,32684333,phf,Public Health and Preventive Family Medicine
+banks,oakley,77774962,fmd,Family Medicine
+mcdowell,arthur,70784226,XXX,NOT_MATCHED
+ellison,marshall,51086789,fmd,Family Medicine
+valenzuela,adele,74329507,fmd,Family Medicine
+smith,halo,80305771,fmd,Family Medicine
+cline,kenneth,45643750,pmr,Physical Medicine & Rehabilitation
+bentley,charley,62229105,oto,Otolaryngology - Head and Neck Surgery
+french,joanna,26709551,fmd,Family Medicine
+trejo,rachel,30513972,psy,Psychiatry
+hale,aaron,37575803,imd,Internal Medicine
+cherry,jazmine,34701992,XXX,NOT_MATCHED
+mason,jolene,20755909,fmd,Family Medicine
+paul,ermias,39683685,fmd,Family Medicine
+leach,trace,27445784,XXX,NOT_MATCHED
+campos,kaleb,89941512,imd,Internal Medicine
+chen,mohamed,29516791,emd,Emergency Medicine
+hawkins,van,21875907,obg,Obstetrics and Gynecology
+harper,charlee,27821331,fmd,Family Medicine
+collins,reese,83392311,dmp,Diagnostic and Molecular Pathology
+branch,emmalynn,74084738,fmd,Family Medicine
+bautista,randy,54812529,fmd,Family Medicine
+santana,journi,80418862,fmd,Family Medicine
+bryant,juliana,54401882,fmd,Family Medicine
+kent,owen,85468557,fmd,Family Medicine
+elliott,forrest,58698032,XXX,NOT_MATCHED
+day,kyler,67003309,fmd,Family Medicine
+hicks,hugo,84283193,psy,Psychiatry
+keller,nevaeh,58097228,fmd,Family Medicine
+krueger,fernanda,26767943,pdt,Pediatrics
+jarvis,ryleigh,54517779,imd,Internal Medicine
+quintero,rayne,69660642,fmd,Family Medicine
+novak,natalia,19281451,fmd,Family Medicine
+small,cairo,54686974,fmd,Family Medicine
+hickman,marianna,67575154,XXX,NOT_MATCHED
+flores,jordyn,79838929,fmd,Family Medicine
+moyer,kennedy,44369908,imd,Internal Medicine
+olsen,dante,99334210,fmd,Family Medicine
+abbott,kason,38125557,fmd,Family Medicine
+hardin,nora,29174844,XXX,NOT_MATCHED
+morris,daphne,54084871,imd,Internal Medicine
+hail,ayla,90231700,ant,Anesthesiology
+hodges,scott,75745463,dra,Diagnostic Radiology
+greene,marisol,59364310,dmp,Diagnostic and Molecular Pathology
+stewart,alma,48102511,obg,Obstetrics and Gynecology
+barry,jonathan,93203250,pdt,Pediatrics
+rivas,dante,81716632,fmd,Family Medicine
+patrick,emmalyn,34821207,fmd,Family Medicine
+good,jax,35204392,fmd,Family Medicine
+galindo,saige,95410580,XXX,NOT_MATCHED
+graves,alanna,48941871,ant,Anesthesiology
+pace,jabari,50135503,fmd,Family Medicine
+jaramillo,marlon,10346526,ors,Orthopedic Surgery
+houston,lauren,23259728,fmd,Family Medicine
+underwood,jaylen,94577961,psy,Psychiatry
+swanson,clare,67347623,ors,Orthopedic Surgery
+dorsey,lexie,58419954,XXX,NOT_MATCHED
+kerr,henley,27167626,XXX,NOT_MATCHED
+delgado,june,66359155,fmd,Family Medicine
+wagner,mathew,57917654,emd,Emergency Medicine
+evans,zyair,86856514,fmd,Family Medicine
+wilson,kylian,69045925,ant,Anesthesiology
+arellano,kaysen,91401371,fmd,Family Medicine
+west,emerson,86058611,fmd,Family Medicine
+rosales,lyla,82564520,psy,Psychiatry
+ford,morgan,36973240,imd,Internal Medicine
+gray,henry,22264527,psy,Psychiatry
+marks,cullen,83267557,psy,Psychiatry
+glover,rayan,24560854,ant,Anesthesiology
+rogers,caiden,14145996,fmd,Family Medicine
+kaur,marcos,97286336,fmd,Family Medicine
+lester,bennett,55036389,fmd,Family Medicine
+mueller,osiris,47133942,fmd,Family Medicine
+matthews,nadia,61763523,XXX,NOT_MATCHED
+edwards,benson,89775699,fmd,Family Medicine
+glenn,ariya,65943140,fmd,Family Medicine
+pham,florence,80964964,imd,Internal Medicine
+jacobs,kamiyah,50290863,fmd,Family Medicine
+cain,leo,13281384,fmd,Family Medicine
+gray,jamari,58386936,gsu,General Surgery
+espinosa,aron,63640362,gsu,General Surgery
+hampton,jett,64868839,fmd,Family Medicine
+choi,maeve,99372969,fmd,Family Medicine
+watkins,shay,91966841,fmd,Family Medicine
+grant,pierce,81482915,fmd,Family Medicine
+payne,stephen,96125916,psy,Psychiatry
+hansen,palmer,36100859,XXX,NOT_MATCHED
+espinoza,fletcher,11513349,fmd,Family Medicine
+evans,vivienne,40587512,imd,Internal Medicine
+walker,jaxson,90181870,fmd,Family Medicine
+strickland,ashley,41558386,pdt,Pediatrics
+fletcher,lennox,17048910,pdt,Pediatrics
+wells,aliza,94607098,fmd,Family Medicine
+zavala,rory,96652259,imd,Internal Medicine
+rich,ace,90373361,fmd,Family Medicine
+bruce,mckinley,60129606,emd,Emergency Medicine
+herman,savannah,90650231,fmd,Family Medicine
+bradley,miriam,11400024,imd,Internal Medicine
+robertson,hugo,41835730,pmr,Physical Medicine & Rehabilitation
+boyer,peyton,82205776,fmd,Family Medicine
+suarez,catherine,30465628,fmd,Family Medicine
+lawrence,jaxx,96502868,gsu,General Surgery
+hudson,skylar,36607830,emd,Emergency Medicine
+salinas,mallory,66757917,fmd,Family Medicine
+ayala,jamison,40177950,uro,Urology
+cano,jovie,17928576,fmd,Family Medicine
+cole,demetrius,34726412,oto,Otolaryngology - Head and Neck Surgery
+burke,noemi,62338832,XXX,NOT_MATCHED
+acevedo,charlie,96392328,fme,Family Medicine integrated Emergency Medicine
+spears,braden,37096779,imd,Internal Medicine
+pace,hezekiah,71400849,fmd,Family Medicine
+hudson,ocean,19857757,imd,Internal Medicine
+duffy,lyla,84761706,nmd,Nuclear Medicine
+marsh,porter,67062889,fmd,Family Medicine
+dawson,titus,23277809,imd,Internal Medicine
+rosas,asher,85445235,fmd,Family Medicine
+austin,riley,83297399,oph,Ophthalmology
+duke,adriel,36736479,psu,Plastic Surgery
+garrison,santiago,86339473,fmd,Family Medicine
+anderson,kaylani,91474750,fmd,Family Medicine
+hubbard,chandler,58103206,fmd,Family Medicine
+prince,dane,88826203,imd,Internal Medicine
+mccall,harlow,73296250,psu,Plastic Surgery
+chung,damari,65473473,pdt,Pediatrics
+barry,damien,28586878,imd,Internal Medicine
+cobb,annika,54271636,nrs,Neurosurgery
+fuller,weston,42926523,XXX,NOT_MATCHED
+ross,yehuda,16365920,imd,Internal Medicine
+garza,kenia,16841360,emd,Emergency Medicine
+washington,jake,53357218,oto,Otolaryngology - Head and Neck Surgery
+rice,diego,74038258,XXX,NOT_MATCHED
+acevedo,fabian,76439384,fmd,Family Medicine
+hickman,ramona,88743406,dcp,Diagnostic and Clinical Pathology
+holland,princeton,87518693,nrp,Neurology - Pediatric
+oneal,paula,33377894,XXX,NOT_MATCHED
+avery,alana,85329181,XXX,NOT_MATCHED
+chang,alexandria,62021514,imd,Internal Medicine
+park,nylah,72667707,fmd,Family Medicine
+monroe,wyatt,11792770,fmd,Family Medicine
+simon,emmeline,25047178,pdt,Pediatrics
+bailey,layla,32647493,XXX,NOT_MATCHED
+hunter,harrison,74165303,psy,Psychiatry
+gardner,joel,16535612,gsu,General Surgery
+russo,desmond,42595400,roc,Radiation Oncology
+scott,jacqueline,96460556,pdt,Pediatrics
+odom,louisa,17100103,fmd,Family Medicine
+meyers,serena,81303824,fmd,Family Medicine
+ashley,maren,13891147,pmr,Physical Medicine & Rehabilitation
+hubbard,dangelo,92098501,uro,Urology
+haley,jaxtyn,98321348,imd,Internal Medicine
+gibbs,tristen,25110112,psy,Psychiatry
+guerrero,elliott,82808587,fmd,Family Medicine
+ramsey,aitana,91763263,imd,Internal Medicine
+herman,annie,84497169,fmd,Family Medicine
+harrington,donovan,50068723,fmd,Family Medicine
+villalobos,claire,15919557,fmd,Family Medicine
+dejesus,ryland,46692483,fmd,Family Medicine
+beasley,cooper,96280819,ant,Anesthesiology
+vincent,mara,89045232,fmd,Family Medicine
+arroyo,ember,25950691,pdt,Pediatrics
+riley,kyler,54682784,fmd,Family Medicine
+bradford,mckinley,38731930,ant,Anesthesiology
+yates,kaysen,68271049,imd,Internal Medicine
+washington,lilianna,13868695,fmd,Family Medicine
+wu,opal,41308075,fmd,Family Medicine
+bender,ariyah,70751700,fmd,Family Medicine
+meyers,jamari,57253499,fmd,Family Medicine
+bennett,vienna,20868610,fmd,Family Medicine
+lynch,lorenzo,75967906,imd,Internal Medicine
+mahoney,jolene,52978135,gsu,General Surgery
+sutton,langston,37008809,mgg,Medical Genetics and Genomics
+scott,aron,98303887,imd,Internal Medicine
+owens,remy,80256445,imd,Internal Medicine
+romero,dylan,63458828,vsu,Vascular Surgery
+lopez,mateo,10834485,oto,Otolaryngology - Head and Neck Surgery
+maynard,charleigh,81276613,imd,Internal Medicine
+hess,august,14845192,oph,Ophthalmology
+vance,aurora,61200469,pdt,Pediatrics
+cabrera,zainab,56723341,imd,Internal Medicine
+lester,marilyn,94987864,fmd,Family Medicine
+walton,yousef,10351110,fmd,Family Medicine
+ortiz,luca,89411294,imd,Internal Medicine
+huber,aspen,57537307,dmp,Diagnostic and Molecular Pathology
+rhodes,violet,77010799,pdt,Pediatrics
+hahn,leanna,44126515,fmd,Family Medicine
+saunders,josephine,68860732,imd,Internal Medicine
+sanders,ainhoa,89733105,fmd,Family Medicine
+franklin,valentina,74641515,fmd,Family Medicine
+dickson,kobe,69556321,nrs,Neurosurgery
+magana,aliana,96457470,fmd,Family Medicine
+cross,berkley,34209296,fmd,Family Medicine
+kaur,saul,13418888,pdt,Pediatrics
+hail,harris,98309679,XXX,NOT_MATCHED
+bradford,kohen,60061761,dra,Diagnostic Radiology
+robles,jasiah,57280241,oto,Otolaryngology - Head and Neck Surgery
+pena,louise,34039724,imd,Internal Medicine
+melton,ermias,92596130,XXX,NOT_MATCHED
+ferguson,finn,76365420,XXX,NOT_MATCHED
+roberson,madalyn,60187310,XXX,NOT_MATCHED
+bender,mateo,42009866,fmd,Family Medicine
+parra,simone,93880635,ors,Orthopedic Surgery
+roach,evelynn,89429096,fmd,Family Medicine
+dodson,jones,40291952,psy,Psychiatry
+krueger,westin,25814709,imd,Internal Medicine
+elliott,jaylah,30678290,imd,Internal Medicine
+barajas,royalty,61964517,fmd,Family Medicine
+booth,raphael,75044740,psu,Plastic Surgery
+scott,victoria,50682754,fmd,Family Medicine
+horn,charley,66568055,dmt,Dermatology
+woodard,laila,95941728,ant,Anesthesiology
+grimes,jasmine,53249030,fmd,Family Medicine
+compton,ali,13669811,fmd,Family Medicine
+barber,hassan,86548088,XXX,NOT_MATCHED
+colon,royal,43330480,fmd,Family Medicine
+rosario,madilynn,40302125,pdt,Pediatrics
+andrews,regina,75683412,imd,Internal Medicine
+mathews,douglas,30368991,imd,Internal Medicine
+goodman,adelyn,36644614,fmd,Family Medicine
+mendoza,bruno,70286510,emd,Emergency Medicine
+wheeler,piper,89883807,fmd,Family Medicine
+macias,eva,22224873,nro,Neurology
+dawson,izabella,56322046,fmd,Family Medicine
+sanford,vance,38045397,imd,Internal Medicine
+nixon,zaid,44651922,XXX,NOT_MATCHED
+bowen,mia,59141856,fmd,Family Medicine
+bautista,melody,40236578,fmd,Family Medicine
+bush,zane,25583032,vsu,Vascular Surgery
+stanton,averi,27242415,fmd,Family Medicine
+lester,moises,43543324,fmd,Family Medicine
+hobbs,lia,54342730,fmd,Family Medicine
+bryan,mikayla,45846993,fmd,Family Medicine
+jennings,talon,89291678,fmd,Family Medicine
+arellano,lea,64347655,psy,Psychiatry
+phelps,amira,67941034,fmd,Family Medicine
+foster,cash,89254963,imd,Internal Medicine
+lewis,sophie,62628073,psy,Psychiatry
+horton,alexandra,40706975,fmd,Family Medicine
+schmitt,fallon,22730978,pdt,Pediatrics
+fisher,zaria,47673521,pmr,Physical Medicine & Rehabilitation
+miller,abel,42900334,imd,Internal Medicine
+berg,ernesto,96863137,fmd,Family Medicine
+kirk,abigail,87591454,XXX,NOT_MATCHED
+winters,anahi,39271309,ant,Anesthesiology
+hinton,persephone,18642080,obg,Obstetrics and Gynecology
+mahoney,wren,99939626,fmd,Family Medicine
+ahmed,dangelo,23645224,XXX,NOT_MATCHED
+martinez,brayden,73966267,fmd,Family Medicine
+nava,ariana,98726740,psu,Plastic Surgery
+cortez,mohamed,30227720,psy,Psychiatry
+mckenzie,jaziel,34497795,pdt,Pediatrics
+higgins,lawrence,11556046,fmd,Family Medicine
+hawkins,william,12794804,emd,Emergency Medicine
+stout,paris,62412196,XXX,NOT_MATCHED
+perry,lilian,48722140,obg,Obstetrics and Gynecology
+barr,adriel,29067870,dra,Diagnostic Radiology
+martin,scarlet,95776286,ors,Orthopedic Surgery
+jimenez,bianca,61979289,imd,Internal Medicine
+bates,corinne,62571555,fmd,Family Medicine
+mann,jedidiah,40696620,fmd,Family Medicine
+hanson,camille,21426397,fmd,Family Medicine
+mcintosh,vicente,94448955,psu,Plastic Surgery
+jarvis,laney,61619992,fmd,Family Medicine
+serrano,jeremias,80005995,fmd,Family Medicine
+harrell,cain,82187972,oph,Ophthalmology
+dunn,johan,35599078,obg,Obstetrics and Gynecology
+cohen,maria,96889545,XXX,NOT_MATCHED
+mills,valentin,38381148,fmd,Family Medicine
+mata,journee,34930503,oto,Otolaryngology - Head and Neck Surgery
+hoover,antonio,19437016,XXX,NOT_MATCHED
+houston,kylan,80528376,XXX,NOT_MATCHED
+curtis,adelynn,58740143,oph,Ophthalmology
+woodward,rebecca,52845414,obg,Obstetrics and Gynecology
+chandler,eliza,51502554,psu,Plastic Surgery
+mcintosh,quinn,15980191,fmd,Family Medicine
+lucero,aliyah,65657854,fmd,Family Medicine
+lozano,mae,85145180,XXX,NOT_MATCHED
+oliver,kalel,81961301,fmd,Family Medicine
+mccarthy,edith,46417179,fmd,Family Medicine
+white,raegan,44934660,XXX,NOT_MATCHED
+hart,rosalee,19378313,roc,Radiation Oncology
+santana,mateo,29689181,psy,Psychiatry
+mack,kase,22687630,ors,Orthopedic Surgery
+lu,elodie,57958429,psy,Psychiatry
+greer,sarah,13325739,fmd,Family Medicine
+mcclain,george,12462589,obg,Obstetrics and Gynecology
+dalton,harlow,17653969,fmd,Family Medicine
+cuevas,kennedi,79539195,fmd,Family Medicine
+schmitt,felicity,63998879,nrp,Neurology - Pediatric
+king,malik,73558012,oph,Ophthalmology
+jackson,kallie,74715541,imd,Internal Medicine
+pittman,shiloh,15012263,fmd,Family Medicine
+payne,angie,99218322,ors,Orthopedic Surgery
+todd,jenesis,13935731,fmd,Family Medicine
+hanna,lane,61430172,emd,Emergency Medicine
+goodman,judah,39443011,fmd,Family Medicine
+brooks,sophia,19210935,psy,Psychiatry
+vo,tadeo,88907001,obg,Obstetrics and Gynecology
+cannon,elora,55976742,pdt,Pediatrics
+sharp,langston,30905643,imd,Internal Medicine
+rivers,sasha,94340667,fmd,Family Medicine
+rollins,daisy,67422448,psy,Psychiatry
+branch,braylee,78270080,fmd,Family Medicine
+cameron,charleigh,19383601,fmd,Family Medicine
+austin,amiyah,84870846,imd,Internal Medicine
+gaines,nolan,64556903,imd,Internal Medicine
+middleton,ander,74098041,fmd,Family Medicine
+graves,deandre,76891934,pdt,Pediatrics
+lamb,rylee,58859317,fmd,Family Medicine
+sanford,maisie,63259204,fmd,Family Medicine
+bernard,hendrix,82243539,imd,Internal Medicine
+blake,briggs,38089495,fmd,Family Medicine
+hinton,christina,73182698,fmd,Family Medicine
+rios,autumn,71136694,fmd,Family Medicine
+peralta,arielle,37224756,fmd,Family Medicine
+doyle,oaklee,35929775,pdt,Pediatrics
+rivas,derrick,47588589,XXX,NOT_MATCHED
+love,aden,74681956,imd,Internal Medicine
+fields,dallas,94602980,imd,Internal Medicine
+stanley,jerry,96210715,fmd,Family Medicine
+montes,greyson,85365292,imd,Internal Medicine
+burns,denver,57569343,fmd,Family Medicine
+brennan,hassan,79456070,pdt,Pediatrics
+gates,jayson,39407080,dmt,Dermatology
+davenport,arya,10381604,imd,Internal Medicine
+york,salvador,52121719,ant,Anesthesiology
+bartlett,jimena,61467735,fmd,Family Medicine
+bean,simon,60318352,fmd,Family Medicine
+howe,quinn,81686754,imd,Internal Medicine
+cox,will,31157048,roc,Radiation Oncology
+buckley,kehlani,62030895,fmd,Family Medicine
+everett,skyla,96492229,imd,Internal Medicine
+french,kole,69652956,imd,Internal Medicine
+johnston,kingston,32418902,imd,Internal Medicine
+scott,sariyah,92553265,fmd,Family Medicine
+chen,chaya,10063069,imd,Internal Medicine
+henderson,jesse,79832488,fmd,Family Medicine
+rojas,maverick,44566498,gsu,General Surgery
+mills,khaleesi,16026198,fmd,Family Medicine
+lindsey,katalina,59638395,ors,Orthopedic Surgery
+barton,valentin,24874850,dra,Diagnostic Radiology
+stewart,amina,97694231,imd,Internal Medicine
+frazier,sylvie,85835965,imd,Internal Medicine
+mcpherson,yosef,97009917,psy,Psychiatry
+spears,macie,31729028,fmd,Family Medicine
+benson,lochlan,46504964,fmd,Family Medicine
+mora,muhammad,75621613,fmd,Family Medicine
+suarez,zaria,81582240,imd,Internal Medicine
+duke,alena,62394669,fmd,Family Medicine
+shannon,dior,23701120,psy,Psychiatry
+corona,berkley,20186522,fmd,Family Medicine
+becker,louise,77309544,fmd,Family Medicine
+beil,heidi,11930816,fmd,Family Medicine
+fuentes,johan,95849465,imd,Internal Medicine
+woodard,macie,93884262,XXX,NOT_MATCHED
+long,zola,61564871,fmd,Family Medicine
+woods,emir,74571580,XXX,NOT_MATCHED
+manning,london,46430220,fmd,Family Medicine
+smith,adelina,80266311,fmd,Family Medicine
+huffman,gavin,56562284,psy,Psychiatry
+acevedo,serena,64259490,XXX,NOT_MATCHED
+kelley,van,40575177,oph,Ophthalmology
+vang,marlowe,88703653,emd,Emergency Medicine
+villegas,holland,53626274,fmd,Family Medicine
+palmer,luella,18795890,imd,Internal Medicine
+benitez,maxwell,92287929,imd,Internal Medicine
+lyons,graham,72347177,fmd,Family Medicine
+murray,nikolai,47637494,fmd,Family Medicine
+parra,adalynn,87936513,fmd,Family Medicine
+delgado,jemma,47457303,XXX,NOT_MATCHED
+dean,demetrius,55801442,fmd,Family Medicine
+williamson,titan,36318502,oph,Ophthalmology
+esquivel,fisher,54748241,fmd,Family Medicine
+chan,mylah,47880571,XXX,NOT_MATCHED
+mccoy,khari,74972840,psy,Psychiatry
+zuniga,eileen,46436304,XXX,NOT_MATCHED
+shepherd,lainey,48633995,dmt,Dermatology
+meadows,dax,12405862,obg,Obstetrics and Gynecology
+roach,briar,70866670,fmd,Family Medicine
+hudson,koa,66666789,vsu,Vascular Surgery
+dillon,martha,72955071,fmd,Family Medicine
+potter,beau,42144584,fmd,Family Medicine
+english,waverly,49667185,fmd,Family Medicine
+espinoza,addilynn,26633130,ant,Anesthesiology
+turner,mohammad,77360126,fmd,Family Medicine
+murphy,ryland,14213486,fmd,Family Medicine
+gardner,nico,11687073,fmd,Family Medicine
+odonnell,graysen,53151384,fmd,Family Medicine
+sosa,gunnar,40966619,psy,Psychiatry
+melton,whitley,45012057,imd,Internal Medicine
+flowers,zora,50016720,fmd,Family Medicine
+escobar,parker,46654588,mmi,Medical Microbiology
+benjamin,colton,87549903,pmr,Physical Medicine & Rehabilitation
+warren,cruz,40857632,fmd,Family Medicine
+powell,winter,10693800,fmd,Family Medicine
+burns,jolie,63533988,imd,Internal Medicine
+glenn,messiah,65065372,fmd,Family Medicine
+kelley,donovan,66647389,dmp,Diagnostic and Molecular Pathology
+roy,margaret,76379043,fmd,Family Medicine
+dickerson,jefferson,64702098,gsu,General Surgery
+sampson,clyde,34285290,fmd,Family Medicine
+bautista,leslie,85536172,imd,Internal Medicine
+townsend,zavier,81834320,fmd,Family Medicine
+cochran,ramon,19154026,imd,Internal Medicine
+norman,liliana,38013078,imd,Internal Medicine
+hale,guillermo,13879397,imd,Internal Medicine
+morton,amira,33196065,fmd,Family Medicine
+savage,karla,29120567,imd,Internal Medicine
+fuentes,lilyana,39077463,XXX,NOT_MATCHED
+carey,grace,99624594,fmd,Family Medicine
+peralta,elina,46137414,psy,Psychiatry
+huffman,kaysen,93004497,nro,Neurology
+mayo,deborah,50548133,fmd,Family Medicine
+castaneda,derrick,57410364,imd,Internal Medicine
+huang,allan,25842927,oph,Ophthalmology
+oliver,jayceon,96364027,XXX,NOT_MATCHED
+peterson,julien,58429245,pdt,Pediatrics
+hull,myra,35780738,gsu,General Surgery
+best,leyla,39711816,XXX,NOT_MATCHED
+farrell,maci,49910505,imd,Internal Medicine
+black,dream,94401893,fmd,Family Medicine
+murphy,rosalie,65905216,fmd,Family Medicine
+nguyen,kenia,78412848,fmd,Family Medicine
+palacios,natasha,96482671,XXX,NOT_MATCHED
+olson,aspyn,40345371,fmd,Family Medicine
+garza,jayson,25286727,fmd,Family Medicine
+conrad,turner,72704805,fmd,Family Medicine
+cardenas,julian,23789733,fmd,Family Medicine
+huynh,aleah,43669109,fmd,Family Medicine
+gray,dawson,65014038,fmd,Family Medicine
+elliott,keaton,87070123,psu,Plastic Surgery
+keller,levi,34357684,fmd,Family Medicine
+foster,kensley,29172185,fmd,Family Medicine
+myers,murphy,39512779,dra,Diagnostic Radiology
+branch,alisson,41130460,fmd,Family Medicine
+morrison,annabella,78435221,fmd,Family Medicine
+greer,lennox,13231207,imd,Internal Medicine
+riley,ivy,26843430,fmd,Family Medicine
+conner,royal,27713391,fmd,Family Medicine
+hicks,gabriella,75563793,fmd,Family Medicine
+marshall,kimberly,89130312,fmd,Family Medicine
+sampson,angel,20743775,npa,Neuropathology
+benson,amirah,93848859,fmd,Family Medicine
+duffy,raina,24652588,fmd,Family Medicine
+coleman,murphy,79009290,ant,Anesthesiology
+summers,tatum,28637321,fmd,Family Medicine
+cox,enoch,35827371,imd,Internal Medicine
+howard,zaid,92457848,imd,Internal Medicine
+mcdonald,jack,56785883,fmd,Family Medicine
+king,callie,59775756,oph,Ophthalmology
+avalos,keaton,22509547,imd,Internal Medicine
+warner,aliyah,78371710,emd,Emergency Medicine
+perkins,mccoy,42174957,fmd,Family Medicine
+bean,henley,13643172,imd,Internal Medicine
+mccoy,augustine,22374091,psy,Psychiatry
+finley,bodhi,10969236,psy,Psychiatry
+khan,moises,67260180,nro,Neurology
+mckay,emilio,61534436,imd,Internal Medicine
+hubbard,brynn,59314969,XXX,NOT_MATCHED
+noble,annabella,15023900,psy,Psychiatry
+lara,drew,45481605,fmd,Family Medicine
+atkinson,madelyn,61455794,pdt,Pediatrics
+golden,zion,37089267,fmd,Family Medicine
+callahan,jeffery,96918962,pdt,Pediatrics
+guzman,lydia,14400088,fmd,Family Medicine
+delacruz,crew,83930716,imd,Internal Medicine
+escobar,danna,99319827,phf,Public Health and Preventive Family Medicine
+shepard,gustavo,37430539,imd,Internal Medicine
+stuart,vivienne,79202191,fmd,Family Medicine
+novak,beckett,58061959,obg,Obstetrics and Gynecology
+hammond,jazmine,64286121,dmp,Diagnostic and Molecular Pathology
+schmidt,legacy,45510750,pdt,Pediatrics
+holmes,liberty,70796373,imd,Internal Medicine
+mayer,ryann,94315251,ors,Orthopedic Surgery
+santos,kobe,22720870,psy,Psychiatry
+hanna,kaden,81166656,imd,Internal Medicine
+goodman,trinity,23789848,obg,Obstetrics and Gynecology
+fox,rene,59240884,fmd,Family Medicine
+butler,troy,50896185,obg,Obstetrics and Gynecology
+gill,arjun,85367984,fmd,Family Medicine
+shelton,mccoy,72440512,gsu,General Surgery
+merritt,london,61509835,fmd,Family Medicine
+mcgee,orion,26425931,psy,Psychiatry
+morton,giuliana,89347943,imd,Internal Medicine
+morrison,darwin,82589454,oto,Otolaryngology - Head and Neck Surgery
+rose,rome,93661301,imd,Internal Medicine
+cisneros,edward,66531576,ant,Anesthesiology
+barker,margot,35447420,fmd,Family Medicine
+hanna,ophelia,46652712,fmd,Family Medicine
+norris,darwin,99227135,fmd,Family Medicine
+lang,adriana,60642025,imd,Internal Medicine
+perry,rogelio,13273037,dra,Diagnostic Radiology
+zimmerman,sutton,26785063,fmd,Family Medicine
+yoder,kace,27675945,psy,Psychiatry
+henderson,aleena,95944564,imd,Internal Medicine
+ventura,yousef,32337606,fmd,Family Medicine
+hansen,jamie,77899872,imd,Internal Medicine
+barber,jovie,73430617,emd,Emergency Medicine
+tanner,noah,85538296,gsu,General Surgery
+whitney,kamryn,13873492,gsu,General Surgery
+villarreal,jordan,65603477,fmd,Family Medicine
+bowman,jamie,10678293,nmd,Nuclear Medicine
+bender,river,85115064,psy,Psychiatry
+henderson,aila,28711389,fmd,Family Medicine
+kelley,lian,46930109,fmd,Family Medicine
+santiago,madisyn,74787952,fmd,Family Medicine
+holloway,belle,20262214,fmd,Family Medicine
+ellis,watson,88740498,gsu,General Surgery
+villa,alayna,58215940,dra,Diagnostic Radiology
+arroyo,zev,80528383,obg,Obstetrics and Gynecology
+collins,averie,51829007,fmd,Family Medicine
+dickson,korbyn,81102268,fmd,Family Medicine
+pollard,georgia,94883451,fmd,Family Medicine
+leal,aden,22344217,imd,Internal Medicine
+cameron,jefferson,80760465,psy,Psychiatry
+winters,skyla,90731506,fmd,Family Medicine
+hardy,harper,36988656,fmd,Family Medicine
+mccarthy,anthony,28609596,XXX,NOT_MATCHED
+flores,antonio,26729037,dmp,Diagnostic and Molecular Pathology
+liu,eleanor,98603899,gsu,General Surgery
+yu,mazikee,10163065,fmd,Family Medicine
+woodard,paola,35390917,psy,Psychiatry
+reid,tomas,97820281,XXX,NOT_MATCHED
+huerta,joy,72392856,dmt,Dermatology
+michael,casen,54439019,fmd,Family Medicine
+harper,kimberly,83458017,imd,Internal Medicine
+conway,philip,97333460,imd,Internal Medicine
+henderson,hannah,39130054,fmd,Family Medicine
+medrano,haven,59486378,fmd,Family Medicine
+barker,chris,98161398,fmd,Family Medicine
+andrews,hanna,75357481,pdt,Pediatrics
+mcdowell,cash,62962317,XXX,NOT_MATCHED
+burch,aidan,41411336,pdt,Pediatrics
+sloan,harley,77459483,fmd,Family Medicine
+vargas,zola,37879289,fmd,Family Medicine
+jordan,pablo,81151424,XXX,NOT_MATCHED
+park,esmeralda,77683493,ant,Anesthesiology
+alvarado,raul,51498540,fmd,Family Medicine
+cantu,noa,62331668,imd,Internal Medicine
+rhodes,fisher,30579342,fmd,Family Medicine
+fleming,londyn,40844878,imd,Internal Medicine
+andersen,sloane,88685067,psy,Psychiatry
+anthony,artemis,89814670,fmd,Family Medicine
+harper,tate,35047894,fmd,Family Medicine
+stevenson,skyler,16508670,imd,Internal Medicine
+houston,ryann,67882219,fmd,Family Medicine
+jensen,amaia,45242202,imd,Internal Medicine
+casey,morgan,50456249,XXX,NOT_MATCHED
+hendrix,sylvie,81126612,imd,Internal Medicine
+hamilton,peyton,20130652,dmt,Dermatology
+gonzalez,giovanna,71580004,psu,Plastic Surgery
+rodriguez,kora,38709447,fmd,Family Medicine
+gillespie,jensen,54120313,pmr,Physical Medicine & Rehabilitation
+ibarra,margo,15078751,fmd,Family Medicine
+gibbs,walter,18554134,fmd,Family Medicine
+hoover,jamie,76217273,imd,Internal Medicine
+rasmussen,callahan,44939253,fmd,Family Medicine
+griffith,tony,44257771,emd,Emergency Medicine
+dickerson,janelle,44072862,ant,Anesthesiology
+cordova,mariah,37510861,fmd,Family Medicine
+dejesus,wyatt,48902704,fmd,Family Medicine
+lynn,journee,43534830,fmd,Family Medicine
+kirby,beau,94571912,imd,Internal Medicine
+clay,averie,70240747,imd,Internal Medicine
+solomon,malani,38934900,fmd,Family Medicine
+odonnell,angie,57554958,fmd,Family Medicine
+simon,dylan,84759038,fmd,Family Medicine
+carr,luca,85701439,fmd,Family Medicine
+gutierrez,jamir,53332725,fmd,Family Medicine
+holt,landyn,86743457,dra,Diagnostic Radiology
+vu,lilliana,77263698,imd,Internal Medicine
+flynn,kaden,15143536,pdt,Pediatrics
+young,scarlette,29144923,nrs,Neurosurgery
+coleman,emberly,47544851,fmd,Family Medicine
+velasquez,jadiel,42833765,psy,Psychiatry
+sosa,lyric,41113470,fmd,Family Medicine
+white,theodore,35262267,psy,Psychiatry
+costa,kamryn,97729400,fmd,Family Medicine
+gordon,aileen,99806447,fmd,Family Medicine
+farmer,bella,53033419,imd,Internal Medicine
+woodard,jeremy,94604213,fmd,Family Medicine
+duarte,dane,65616760,ors,Orthopedic Surgery
+harper,kaiden,88929931,fmd,Family Medicine
+solomon,emerald,61584974,gsu,General Surgery
+proctor,lilah,39085709,imd,Internal Medicine
+fletcher,denver,21787455,dra,Diagnostic Radiology
+clarke,harper,12905282,fmd,Family Medicine
+ayers,hadlee,50609933,XXX,NOT_MATCHED
+hardin,thalia,15289747,fmd,Family Medicine
+blake,ismael,19968267,XXX,NOT_MATCHED
+dudley,kyng,44996798,fmd,Family Medicine
+moran,nikolas,46757528,pdt,Pediatrics
+hudson,hamza,66963369,fmd,Family Medicine
+craig,rowan,48875073,fmd,Family Medicine
+cardenas,theodora,24406520,fmd,Family Medicine
+kim,milan,83637630,fmd,Family Medicine
+mckee,kashton,35973242,psy,Psychiatry
+vega,jackson,21759010,pdt,Pediatrics
+carlson,rosalee,78427745,fmd,Family Medicine
+sutton,cayson,75156836,emd,Emergency Medicine
+mcbride,jaylah,54382157,pmr,Physical Medicine & Rehabilitation
+ortega,kaitlyn,60210071,imd,Internal Medicine
+williamson,jasiah,97612745,fmd,Family Medicine
+best,brendan,60296692,fmd,Family Medicine
+zuniga,arian,84451037,psy,Psychiatry
+johns,rosalyn,60136218,nmd,Nuclear Medicine
+ray,garrett,33172244,fmd,Family Medicine
+boyer,quinn,28325245,fmd,Family Medicine
+mcclure,janelle,87506880,fmd,Family Medicine
+johnston,hadley,28721199,ant,Anesthesiology
+zuniga,raiden,43478500,imd,Internal Medicine
+diaz,maurice,89562905,imd,Internal Medicine
+hensley,estelle,38855781,fmd,Family Medicine
+landry,atlas,18995693,psy,Psychiatry
+chambers,mabel,84576649,fmd,Family Medicine
+hodge,jaylah,21613100,pdt,Pediatrics
+bonilla,micah,33546102,imd,Internal Medicine
+mccoy,remy,68718280,fmd,Family Medicine
+alexander,mohamed,23346600,XXX,NOT_MATCHED
+walton,lucia,41109658,fmd,Family Medicine
+santana,danna,73036203,fmd,Family Medicine
+sims,mohammed,12199251,ant,Anesthesiology
+rasmussen,margaret,82314413,ant,Anesthesiology
+wolfe,adaline,19763112,pdt,Pediatrics
+christian,micah,52975605,ant,Anesthesiology
+valenzuela,arian,93376264,imd,Internal Medicine
+ruiz,brayan,34054053,fmd,Family Medicine
+perkins,lionel,54634314,fmd,Family Medicine
+chandler,skyla,59743051,imd,Internal Medicine
+velez,macy,68290669,fmd,Family Medicine
+jennings,yareli,68080820,emd,Emergency Medicine
+golden,emiliano,90493400,oto,Otolaryngology - Head and Neck Surgery
+gallagher,renata,23907929,fmd,Family Medicine
+daniel,mina,22058034,gsu,General Surgery
+booth,samira,20579390,dra,Diagnostic Radiology
+gould,alianna,85808224,fmd,Family Medicine
+lane,jaylee,70146993,imd,Internal Medicine
+shah,oakleigh,45417330,fmd,Family Medicine
+schneider,imani,26561625,fmd,Family Medicine
+vu,avery,58701852,vsu,Vascular Surgery
+quintana,oscar,43005296,imd,Internal Medicine
+larson,mauricio,61039943,imd,Internal Medicine
+dunlap,jayleen,93423006,fmd,Family Medicine
+moyer,roy,50449628,dra,Diagnostic Radiology
+bradford,alondra,19069176,imd,Internal Medicine
+trujillo,gwendolyn,64453131,emd,Emergency Medicine
+gibbs,jazmine,18322939,fmd,Family Medicine
+terrell,journi,66996695,imd,Internal Medicine
+james,colin,87269541,fmd,Family Medicine
+may,osiris,10686419,nrp,Neurology - Pediatric
+haley,brendan,49512690,fmd,Family Medicine
+carlson,elsa,16206347,fmd,Family Medicine
+hensley,tucker,61435662,pmr,Physical Medicine & Rehabilitation
+george,leanna,32221658,fmd,Family Medicine
+mullins,zaylee,31999655,fmd,Family Medicine
+villarreal,justin,17516002,gsu,General Surgery
+taylor,allie,10168665,fmd,Family Medicine
+hart,lilith,47692505,fmd,Family Medicine
+lowery,troy,49927959,ant,Anesthesiology
+garza,hadassah,17268822,fmd,Family Medicine
+freeman,nova,47810963,fmd,Family Medicine
+bishop,harlem,28575930,fmd,Family Medicine
+dillon,dior,54893925,gsu,General Surgery
+logan,maria,30116252,psy,Psychiatry
+fischer,grace,76979997,pdt,Pediatrics
+johns,anika,13330010,pmr,Physical Medicine & Rehabilitation
+bass,drake,26729268,imd,Internal Medicine
+dickson,shiloh,37337112,fmd,Family Medicine
+rowe,murphy,80590228,XXX,NOT_MATCHED
+dalton,alan,91045114,fmd,Family Medicine
+hardin,winnie,46183061,fmd,Family Medicine
+blanchard,lilyana,15983605,dra,Diagnostic Radiology
+burke,zahra,43923696,fmd,Family Medicine
+gallagher,forrest,22528032,fmd,Family Medicine
+rush,kobe,79569797,fmd,Family Medicine
+wise,ivory,55949779,fmd,Family Medicine
+frye,emmanuel,46545620,fmd,Family Medicine
+espinosa,talon,69698898,fmd,Family Medicine
+guerrero,wren,12105584,oto,Otolaryngology - Head and Neck Surgery
+nielsen,aubrielle,26054726,dmt,Dermatology
+moreno,greyson,93334068,pdt,Pediatrics
+haynes,charli,79696592,fmd,Family Medicine
+duke,kamryn,62036908,emd,Emergency Medicine
+atkinson,pearl,32047104,pdt,Pediatrics
+huang,simon,99527504,fmd,Family Medicine
+griffin,angelina,58288844,psy,Psychiatry
+chandler,soren,46870669,pmr,Physical Medicine & Rehabilitation
+osborne,kyra,83341919,psy,Psychiatry
+lewis,laylah,91380695,fmd,Family Medicine
+trejo,valentina,97431909,fmd,Family Medicine
+clay,paula,78006743,fmd,Family Medicine
+hubbard,kylo,31737624,pdt,Pediatrics
+barr,dariel,42578291,fmd,Family Medicine
+mccullough,brian,71314637,pdt,Pediatrics
+combs,caspian,64414039,fmd,Family Medicine
+maldonado,gael,10635473,ant,Anesthesiology
+cohen,lewis,71179314,fmd,Family Medicine
+mosley,vanessa,79174019,vsu,Vascular Surgery
+leonard,grace,33513453,XXX,NOT_MATCHED
+kent,donald,77089081,fmd,Family Medicine
+bennett,julianna,30046424,dra,Diagnostic Radiology
+hawkins,bailey,34970679,phf,Public Health and Preventive Family Medicine
+shelton,colin,57856590,fmd,Family Medicine
+harper,wesson,18668502,imd,Internal Medicine
+taylor,juliet,67080313,fmd,Family Medicine
+hodges,wynter,98209783,fmd,Family Medicine
+duke,cullen,55256721,psy,Psychiatry
+harper,zev,88347623,imd,Internal Medicine
+harper,archie,13338374,fmd,Family Medicine
+chase,hallie,79668718,fmd,Family Medicine
+vargas,sean,63105025,imd,Internal Medicine
+cain,cal,74961921,fmd,Family Medicine
+cohen,joziah,94141051,fmd,Family Medicine
+silva,andrew,38468947,oto,Otolaryngology - Head and Neck Surgery
+mckenzie,zion,48075017,ors,Orthopedic Surgery
+hansen,kareem,61878833,roc,Radiation Oncology
+sanchez,athena,69396376,fmd,Family Medicine
+lucas,juliana,13647853,fmd,Family Medicine
+sharp,hope,29082592,fmd,Family Medicine
+nichols,emilio,95791014,fmd,Family Medicine
+ali,lena,94228322,psy,Psychiatry
+garrison,analia,27123383,XXX,NOT_MATCHED
+cano,kyra,84759286,fmd,Family Medicine
+strong,armando,94697968,fmd,Family Medicine
+mora,paxton,52011062,ors,Orthopedic Surgery
+sawyer,damian,89841578,fmd,Family Medicine
+santana,douglas,47679982,fmd,Family Medicine
+mathis,jericho,33621868,fmd,Family Medicine
+duke,promise,97696306,psy,Psychiatry
+mckinney,denver,98573853,fmd,Family Medicine
+peterson,abby,39412029,XXX,NOT_MATCHED
+medina,halo,88601350,pdt,Pediatrics
+clements,nicole,29764899,uro,Urology
+rios,jamie,94872747,XXX,NOT_MATCHED
+curry,zachariah,56967943,fmd,Family Medicine
+sawyer,dean,37224632,fmd,Family Medicine
+barnes,ty,26848036,fmd,Family Medicine
+dickerson,mason,14405365,imd,Internal Medicine
+li,gavin,79376612,fmd,Family Medicine
+crane,alistair,42840390,fmd,Family Medicine
+cameron,marisol,16642484,psy,Psychiatry
+lu,ramon,85835362,fmd,Family Medicine
+rhodes,jenesis,45660749,XXX,NOT_MATCHED
+mccullough,angela,39364468,fmd,Family Medicine
+cox,nayeli,25479543,fmd,Family Medicine
+serrano,eddie,80816976,fmd,Family Medicine
+carter,arabella,71510497,imd,Internal Medicine
+lucero,lochlan,72027627,fmd,Family Medicine
+bonilla,kaiden,80741688,XXX,NOT_MATCHED
+knox,aya,84728389,uro,Urology
+richard,griffin,26984244,fmd,Family Medicine
+benson,zayden,75904837,psy,Psychiatry
+james,tiffany,29634207,fmd,Family Medicine
+jefferson,dion,77716262,fmd,Family Medicine
+mclean,reagan,42672262,fmd,Family Medicine
+cameron,fiona,95003136,pdt,Pediatrics
+larson,myla,60948011,imd,Internal Medicine
+farmer,noemi,52519570,XXX,NOT_MATCHED
+wilcox,nancy,67167878,fme,Family Medicine integrated Emergency Medicine
+parks,rocky,65092229,fmd,Family Medicine
+james,hassan,51299517,fmd,Family Medicine
+orozco,kaiser,21148376,fmd,Family Medicine
+gill,christopher,52250307,fmd,Family Medicine
+montes,franco,20088936,emd,Emergency Medicine
+fuentes,foster,88066168,fme,Family Medicine integrated Emergency Medicine
+benton,wren,91141627,obg,Obstetrics and Gynecology
+clements,joelle,23666306,fmd,Family Medicine
+allen,kiaan,63543547,psy,Psychiatry
+richmond,monica,19951375,fmd,Family Medicine
+holmes,cole,85549013,imd,Internal Medicine
+ballard,adelynn,49851844,fmd,Family Medicine
+costa,bryson,28495153,XXX,NOT_MATCHED
+powell,ocean,50926652,pdt,Pediatrics
+petersen,rex,72504059,dra,Diagnostic Radiology
+cortes,skye,26949228,nrs,Neurosurgery
+huffman,kaliyah,28672550,emd,Emergency Medicine
+brewer,danna,33303690,obg,Obstetrics and Gynecology
+bates,demetrius,93550469,ant,Anesthesiology
+garza,harleigh,34404400,imd,Internal Medicine
+rhodes,frida,77947425,fmd,Family Medicine
+woodward,xzavier,70407197,fmd,Family Medicine
+brennan,aya,53562771,fmd,Family Medicine
+hall,avi,10759932,nro,Neurology
+abbott,raiden,28368769,ant,Anesthesiology
+hernandez,yosef,38688923,imd,Internal Medicine
+lim,wayne,87352740,fmd,Family Medicine
+holt,colette,98601857,fmd,Family Medicine
+rodgers,lilah,43552943,psy,Psychiatry
+schwartz,marlowe,26516640,oph,Ophthalmology
+weiss,galilea,16143026,gsu,General Surgery
+gibson,kenji,77170906,nro,Neurology
+leonard,margot,83682970,emd,Emergency Medicine
+lloyd,kara,15748939,XXX,NOT_MATCHED
+sosa,salvador,47618269,fmd,Family Medicine
+ho,khalid,87380700,obg,Obstetrics and Gynecology
+cantu,mallory,61605972,fmd,Family Medicine
+davila,kyrie,68872899,fmd,Family Medicine
+vang,sydney,60250615,ant,Anesthesiology
+watkins,melany,13481616,imd,Internal Medicine
+collier,angie,14253980,imd,Internal Medicine
+francis,william,24297451,fmd,Family Medicine
+owen,marina,85692240,psy,Psychiatry
+thornton,janelle,58114564,fmd,Family Medicine
+friedman,lyanna,22371138,fmd,Family Medicine
+griffith,charlotte,60161827,dmt,Dermatology
+avalos,renata,97281541,imd,Internal Medicine
+wood,harmoni,28379470,fmd,Family Medicine
+valenzuela,alfred,67792692,fmd,Family Medicine
+james,camilo,91475882,XXX,NOT_MATCHED
+nichols,loretta,18564678,psy,Psychiatry
+hines,martin,88915907,oto,Otolaryngology - Head and Neck Surgery
+austin,loretta,86379802,imd,Internal Medicine
+hurley,reese,24588977,XXX,NOT_MATCHED
+kirby,peyton,98528800,dra,Diagnostic Radiology
+rodgers,legacy,72416639,obg,Obstetrics and Gynecology
+felix,callan,44566235,imd,Internal Medicine
+hansen,lorelai,59593530,fmd,Family Medicine
+dawson,alina,53467039,XXX,NOT_MATCHED
+bartlett,andrew,17657916,fmd,Family Medicine
+serrano,promise,44497515,fmi,Family Medicine integrated Clinician Scholar
+gomez,halo,76362055,fmd,Family Medicine
+flynn,aziel,41849071,fmd,Family Medicine
+coffey,uriah,16666254,fmd,Family Medicine
+kelley,daisy,31930685,XXX,NOT_MATCHED
+hall,kamari,83814932,imd,Internal Medicine
+arnold,remi,42181976,ant,Anesthesiology
+cantu,emerson,93332294,fmd,Family Medicine
+tyler,sydney,48793896,fmd,Family Medicine
+pham,hazel,16885539,fmd,Family Medicine
+dalton,etta,95513338,fmd,Family Medicine
+donovan,indie,32512361,fmd,Family Medicine
+choi,aniya,79093365,dmp,Diagnostic and Molecular Pathology
+gomez,jonathan,85342870,fmd,Family Medicine
+logan,murphy,34330878,oph,Ophthalmology
+kane,milani,39621448,pdt,Pediatrics
+webb,bellamy,41872297,fmd,Family Medicine
+suarez,jolie,36727032,ant,Anesthesiology
+richardson,blair,22287379,XXX,NOT_MATCHED
+salazar,alianna,40203770,fmd,Family Medicine
+graves,drake,74571788,imd,Internal Medicine
+mills,karla,64056423,nro,Neurology
+melton,brendan,86579629,fmd,Family Medicine
+barry,kiaan,11728294,emd,Emergency Medicine
+oconnor,izabella,90838546,XXX,NOT_MATCHED
+huff,alia,52300095,ant,Anesthesiology
+paul,ian,89539175,psy,Psychiatry
+heath,tessa,46950903,pmr,Physical Medicine & Rehabilitation
+glover,lucy,60819307,imd,Internal Medicine
+willis,ana,40973778,fmd,Family Medicine
+schwartz,quinn,80710262,XXX,NOT_MATCHED
+esquivel,parker,68410730,emd,Emergency Medicine
+norman,maximus,19142133,fmd,Family Medicine
+villegas,lainey,30074992,pdt,Pediatrics
+griffith,wes,61882605,XXX,NOT_MATCHED
+gillespie,jayson,61234650,XXX,NOT_MATCHED
+brandt,chance,77893266,imd,Internal Medicine
+jones,giavanna,74860207,fmd,Family Medicine
+rangel,keanu,87981571,ant,Anesthesiology
+blackburn,adeline,65033820,fmd,Family Medicine
+williamson,cayden,31310743,nro,Neurology
+navarro,duke,26827640,psy,Psychiatry
+hutchinson,cassandra,58646630,nmd,Nuclear Medicine
+hoover,mabel,14538483,fmd,Family Medicine
+schaefer,ramona,68606487,gsu,General Surgery
+morrow,makayla,19267635,ors,Orthopedic Surgery
+palacios,gabriel,10159096,fmd,Family Medicine
+hobbs,natasha,53353400,imd,Internal Medicine
+wiley,julie,75647485,dra,Diagnostic Radiology
+bush,destiny,81479895,nro,Neurology
+warner,analia,99856625,psy,Psychiatry
+cordova,hugh,82855968,mgg,Medical Genetics and Genomics
+mcdonald,catherine,44697421,fmd,Family Medicine
+flores,ashley,30968005,fmd,Family Medicine
+bell,zahir,17071649,imd,Internal Medicine
+acosta,sky,61201784,uro,Urology
+brooks,jose,38280840,imd,Internal Medicine
+chan,bryce,19607232,imd,Internal Medicine
+finley,baylor,65694797,XXX,NOT_MATCHED
+tang,daniela,60560599,fmd,Family Medicine
+mahoney,tristan,86041976,fmd,Family Medicine
+richards,atticus,23741620,fmd,Family Medicine
+hoffman,lawrence,35672336,dra,Diagnostic Radiology
+ballard,marilyn,51507945,imd,Internal Medicine
+weiss,sofia,69790328,ors,Orthopedic Surgery
+buchanan,stefan,69832059,gsu,General Surgery
+jaramillo,dakari,80114488,psy,Psychiatry
+livingston,coen,87306096,ors,Orthopedic Surgery
+cano,axton,70542630,imd,Internal Medicine
+howe,zayden,73599081,gsu,General Surgery
+jimenez,fisher,72937570,pdt,Pediatrics
+quintero,carter,91626386,imd,Internal Medicine
+frye,frida,28480168,uro,Urology
+stark,roselyn,86087339,imd,Internal Medicine
+james,gerald,30812591,fmd,Family Medicine
+norris,talia,85329961,obg,Obstetrics and Gynecology
+sierra,troy,72198562,psy,Psychiatry
+carter,zahra,21757347,fmd,Family Medicine
+pollard,warren,77651282,fmd,Family Medicine
+singleton,bethany,68297595,XXX,NOT_MATCHED
+armstrong,alaia,97604708,fmd,Family Medicine
+burgess,lorelei,10408345,fmd,Family Medicine
+harper,avery,39706430,fmd,Family Medicine
+corona,eliezer,81871588,fmd,Family Medicine
+roberson,charley,31834318,fmd,Family Medicine
+whitaker,bishop,79478319,fmd,Family Medicine
+farrell,gwen,49269406,imd,Internal Medicine
+crosby,amy,26278560,XXX,NOT_MATCHED
+wolf,legend,13781586,ant,Anesthesiology
+baker,jamal,50205797,fmd,Family Medicine
+schaefer,elina,10811070,imd,Internal Medicine
+torres,ahmad,34278955,emd,Emergency Medicine
+nguyen,kamryn,97185739,psy,Psychiatry
+nielsen,brinley,83080453,imd,Internal Medicine
+romero,ada,60030735,XXX,NOT_MATCHED
+nichols,everest,43300311,fmd,Family Medicine
+frost,jaylen,22990184,dra,Diagnostic Radiology
+dixon,junior,63676554,phf,Public Health and Preventive Family Medicine
+foley,zora,92080525,imd,Internal Medicine
+huber,aryan,38158040,fmd,Family Medicine
+phan,kaydence,88359854,fmd,Family Medicine
+galindo,khaleesi,98408769,dmt,Dermatology
+durham,camille,74161049,imd,Internal Medicine
+herrera,abdullah,73804262,psy,Psychiatry
+phillips,emmaline,21489917,fmd,Family Medicine
+bates,matilda,71834245,fmd,Family Medicine
+richmond,atticus,98405810,fmd,Family Medicine
+daniel,dayton,38977882,nro,Neurology
+burnett,ayaan,42631415,pdt,Pediatrics
+glass,fox,77435373,fmd,Family Medicine
+kennedy,alondra,58982885,obg,Obstetrics and Gynecology
+mcfarland,evangeline,17748253,fmd,Family Medicine
+lawson,london,64588131,fmd,Family Medicine
+branch,dangelo,47179862,nrs,Neurosurgery
+wade,francesca,77439442,gsu,General Surgery
+benton,kingston,26942241,imd,Internal Medicine
+rhodes,russell,57817811,fmd,Family Medicine
+choi,cataleya,86319618,psu,Plastic Surgery
+mcpherson,wesson,77854833,dra,Diagnostic Radiology
+rowland,king,83560937,fmd,Family Medicine
+franco,watson,72868593,imd,Internal Medicine
+walton,keith,67665254,fmd,Family Medicine
+yu,maximiliano,52344847,gsu,General Surgery
+rice,bria,39074523,imd,Internal Medicine
+larson,addilyn,54291305,fmd,Family Medicine
+mckay,kathryn,69684708,fmd,Family Medicine
+frye,marley,78086142,gsu,General Surgery
+mccarthy,landyn,38303895,imd,Internal Medicine
+lucero,eliel,88147585,XXX,NOT_MATCHED
+pierce,keenan,88191902,fmd,Family Medicine
+winters,aiden,65845319,dra,Diagnostic Radiology
+collins,kalel,18018529,pdt,Pediatrics
+fry,stevie,10326407,fmd,Family Medicine
+allen,cain,21420186,fmd,Family Medicine
+tate,caiden,31382317,fmd,Family Medicine
+gould,harleigh,65157465,fmd,Family Medicine
+bush,violeta,34633618,fmd,Family Medicine
+lawrence,ethan,14002996,fmd,Family Medicine
+ball,gerardo,36635880,imd,Internal Medicine
+whitehead,muhammad,37315459,pdt,Pediatrics
+dorsey,alessandra,36745586,fmd,Family Medicine
+porter,rayan,69935987,XXX,NOT_MATCHED
+mcintyre,lennox,22833585,fmd,Family Medicine
+farley,forest,14125802,obg,Obstetrics and Gynecology
+shelton,ayla,43126308,imd,Internal Medicine
+golden,jaxson,52131630,fmd,Family Medicine
+avila,charleigh,11673042,ors,Orthopedic Surgery
+mata,emmaline,28370132,ant,Anesthesiology
+kaur,adalynn,39866509,imd,Internal Medicine
+benjamin,alma,84287913,pdt,Pediatrics
+ayers,duke,54636616,fmd,Family Medicine
+kelley,rafael,21409744,emd,Emergency Medicine
+quintana,kate,89759108,fmd,Family Medicine
+gonzales,hugo,88553332,psy,Psychiatry
+fowler,valentina,85229850,fmd,Family Medicine
+buckley,arjun,97347111,fmd,Family Medicine
+estes,river,91728489,imd,Internal Medicine
+alexander,bruce,55049149,imd,Internal Medicine
+garrison,will,92973217,imd,Internal Medicine
+doyle,rosalie,17840077,dra,Diagnostic Radiology
+pierce,hayden,64985859,obg,Obstetrics and Gynecology
+weber,daphne,64734037,XXX,NOT_MATCHED
+hernandez,yaretzi,98998446,obg,Obstetrics and Gynecology
+cain,nolan,61295281,pdt,Pediatrics
+erickson,frankie,31508923,gsu,General Surgery
+richard,brodie,57404819,fmd,Family Medicine
+lucas,francesca,60495817,fmd,Family Medicine
+hickman,juliette,29775023,imd,Internal Medicine
+marks,magnolia,83098557,XXX,NOT_MATCHED
+lucas,ellis,53011534,fmd,Family Medicine
+good,lane,22414780,imd,Internal Medicine
+franklin,ibrahim,86059643,imd,Internal Medicine
+enriquez,lian,57303233,fmd,Family Medicine
+moyer,mitchell,48662373,fmd,Family Medicine
+merritt,ayaan,17839093,fmd,Family Medicine
+espinosa,zyair,13757433,imd,Internal Medicine
+marin,kalani,88662808,fmd,Family Medicine
+cantrell,helen,56070653,dra,Diagnostic Radiology
+warner,kaden,20233873,ant,Anesthesiology
+mccarty,ellis,49591598,fmd,Family Medicine
+greer,kalani,95999229,psy,Psychiatry
+fitzpatrick,ryland,35220143,fmd,Family Medicine
+valenzuela,mitchell,90891021,nro,Neurology
+kim,jack,75252683,fmd,Family Medicine
+fischer,kaleb,45988210,fmd,Family Medicine
+hoffman,travis,97924997,fmd,Family Medicine
+Number of unmatched residents: 334
+Number of positions available: 39
+true.
+
+4 ?- 

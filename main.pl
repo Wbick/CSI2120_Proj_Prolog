@@ -17,15 +17,7 @@ initialMs(Ms) :-
 % computes the rank of a resident in programs rol
 rankInProgram(ResidentID, ProgramID, Rank) :-
     program(ProgramID, _, _, ROL),
-    position(ResidentID, ROL, Rank).
-
-% resident is in first position
-position(X, [X|_], 1).
-
-% recursively find residents rank in program rol
-position(X, [_|T], N) :-
-    position(X, T, N1),
-    N is N1 + 1.
+    nth1(Rank, ROL, ResidentID).
 
 % list has one resident
 leastPreferred(ProgramID, [ResidentID], ResidentID, Rank) :-

@@ -102,6 +102,7 @@ offer_all([ResidentID|Rest], CurrentMatchSet, NewMatchSet) :-
     offer(ResidentID, CurrentMatchSet, UpdatedMatchSet),
     offer_all(Rest, UpdatedMatchSet, NewMatchSet).
 
+% offer all residents until matchset stays the same
 stable_loop(CurrentMatchSet, FinalMatchSet) :-
     findall(ResidentID, resident(ResidentID, _, _), Residents),
     offer_all(Residents, CurrentMatchSet, NewMatchSet),
@@ -112,6 +113,7 @@ stable_loop(CurrentMatchSet, FinalMatchSet) :-
         stable_loop(NewMatchSet, FinalMatchSet)
     ).
 
+% print all residents, either matched or unmatched
 print_all_residents(FinalMatchset) :-
     forall(
         resident(ResidentID, name(FN, LN), _),
@@ -129,3 +131,23 @@ print_all_residents(FinalMatchset) :-
         )
     ).
 
+% count all residents who arent matched
+count_unmatched(FinalMatchset, Count) :-
+    findall(ResidentID,
+        (
+            resident(ResidentID, _, _),
+            \+ matched(ResidentID, _, FinalMatchset)
+        ),
+        UnmatchedResidents),
+    length(UnmatchedResidents, Count).
+
+program_open_positions(FinalMatchset, Count) :-
+    findall(OpenPositions,
+        (
+            program(ProgramID, _, Capacity, _),
+            member(match(ProgramID, Residents), FinalMatchset),
+            length(Residents, NumberOfResidents),
+            OpenPositions is Capacity - NumberOfResidents
+        ),
+        OpenCount),
+    sum_list(OpenCount, Count).

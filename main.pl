@@ -1,4 +1,4 @@
-% high-level gale_shapely/0
+% high-level gale_shapley/0
 gale_shapely :-
     initialMs(InitialMatchSet),
     stable_loop(InitialMatchSet, FinalMatchSet),
